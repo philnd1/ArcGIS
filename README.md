@@ -8,7 +8,7 @@ Before completing this tutorial, students should log on to ArcGIS online with th
 
 ## Contents:
 1. [Copy blank spreadsheet](Contents/01-spreadsheet.md)
-2. Adding data
-3. Adding data coordinates
-4. Saving as CSV
-5. Importing to ArcGIS
+2. [Adding data](Contents/02-add-data.md)
+3. [Adding data coordinates](Contents/03-add-coordinates.md)
+4. [Saving as CSV](Contents/04-make-csv.md)
+5. [Importing to ArcGIS](Contents/05-import-data.md)
