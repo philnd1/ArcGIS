@@ -5,7 +5,7 @@ This tutorial is intended to ...
 After completion students will be able to ...
 
 ## Contents:
-1. [Copy blank spreadsheet](contents/01-spreadsheet.md)
+1. [Copy blank spreadsheet](Contents/01-spreadsheet.md)
 2. Adding data
 3. Adding data coordinates
 4. Saving as CSV
