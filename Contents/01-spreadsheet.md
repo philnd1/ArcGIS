@@ -1,7 +1,7 @@
 # Copy/access a blank mapping spreadsheet using Excel
 
 ## Access the excel shared file for this course/for your project
-[The file link can be inserted here](https://docs.google.com/spreadsheets/d/16Xz4zSmbSGUh0aMkgehvcUN7XcTPTC3NkkgNRewX6hM/edit?usp=drive_link)
+[Here's your spreadsheet](https://docs.google.com/spreadsheets/d/16Xz4zSmbSGUh0aMkgehvcUN7XcTPTC3NkkgNRewX6hM/edit?usp=drive_link)
 
 Note that this file may already contain data which you can use as an example. You can choose to delete this data once you are comfortable inputting your own.
 
