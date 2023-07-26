@@ -1,4 +1,4 @@
-# instructions for importing data to ArcGIS
+# Step Five: Instructions for importing data to ArcGIS
 
 ## Importing a CSV to ArcGIS Online
 
@@ -16,3 +16,5 @@
 2. Click the small person icon to edit sharing. Choose "Organization" and save changes.
 
 ![assclown](/assets/download.jpg)
+
+[<<< previous](/Contents/04-make-csv.md) | [next >>>](https://www.assclownbrewing.com/)
