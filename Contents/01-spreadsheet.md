@@ -7,3 +7,4 @@ Note that this file may already contain data which you can use as an example. Yo
 
 ## Optional: create a new excel file for your specific dataset
 
+[previous >>>(readme.md) | [next >>>](contents/02-add-data.md)
