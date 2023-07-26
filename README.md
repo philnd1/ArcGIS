@@ -13,4 +13,4 @@ Before completing this tutorial, students should log on to ArcGIS online with th
 4. [Saving as CSV](Contents/04-make-csv.md)
 5. [Importing to ArcGIS](Contents/05-import-data.md)
 
-[Start Tutorial >>>](Contents/01-spreadsheed.md)
+[Start Tutorial >>>](Contents/01-spreadsheet.md)
