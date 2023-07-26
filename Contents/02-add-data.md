@@ -1,4 +1,4 @@
-# Adding new data to the mapping spreadsheet
+# Step Two: Adding new data to the mapping spreadsheet
 
 ## Review example data
 
