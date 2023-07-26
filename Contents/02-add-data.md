@@ -12,4 +12,4 @@ Consider these elements when adding mapping data:
 
 ![mapping column drop down menu]({{ site.baseurl }}/assets/ExcelDropDown.png)
 
-[<<< previous](01-spreadsheet.md) | [next >>>](03-add-coordinates.md)
+[< previous](01-spreadsheet.md) | [next >](03-add-coordinates.md)
