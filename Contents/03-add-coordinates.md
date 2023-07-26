@@ -12,4 +12,4 @@ When mapping a novel mostly centered on a single city, your coordinates should a
 
 You can use Google Maps to find the coordinates. Search for the location, or find an approximate location on the map, and then right click, or double tap on Mac, to see coordinates. You can click them and they will automatically copy, so you can paste them into the spreadsheet. However, make sure you separate the coordinates into individual Latitude and Longitude columns, so the mapping software can read them properly.
 
-[<<< previous](02-add-data.md) | [next >>>](04-make-csv.md)
+[< previous](02-add-data.md) | [next >](04-make-csv.md)
