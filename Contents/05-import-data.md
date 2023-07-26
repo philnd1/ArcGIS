@@ -17,4 +17,4 @@
 
 ![assclown](/assets/download.jpg)
 
-[<<< previous](/Contents/04-make-csv.md) | [next >>>](https://www.assclownbrewing.com/)
+[<<< previous](04-make-csv.md) | [next >>>](https://www.assclownbrewing.com/)
