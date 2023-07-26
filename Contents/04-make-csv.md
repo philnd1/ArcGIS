@@ -1,4 +1,4 @@
-# instructions for saving data as csv file
+# Step Four: Saving your spreadsheet as .csv file
 
 ## Saving as a CSV
 
@@ -13,3 +13,4 @@ If you are using your web broswer to edit your Excel file, first save a copy to 
 3. Under "save as type", make sure you select "CSV UTC-8 Comma Delimited"
 4. Choose an easy to remember file name. This file name will also be the display name for your data layer in the mapping software.
 
+[<<< previous](/Contents/03-add-coordinates.md) | [next >>>](/Contents/05-import-data.md)
