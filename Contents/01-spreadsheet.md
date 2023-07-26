@@ -1,4 +1,4 @@
-# Copy/access a blank mapping spreadsheet using Excel
+# Step One: Copy/access a blank mapping spreadsheet using Excel
 
 ## Access the excel shared file for this course/for your project
 [Here's your spreadsheet](https://docs.google.com/spreadsheets/d/16Xz4zSmbSGUh0aMkgehvcUN7XcTPTC3NkkgNRewX6hM/edit?usp=drive_link)
