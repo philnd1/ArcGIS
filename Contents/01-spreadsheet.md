@@ -1,7 +1,7 @@
 # Create/access a mapping spreadsheet using Excel
 
-## Access the excel shared file for this course
+## Access the excel shared file for this course/for your project
 [The file link can be inserted here] (https://grinco-my.sharepoint.com/:x:/g/personal/phillipsn_grinnell_edu/EbHJStCykKVNqnfRxZSq9acBjsEHYyjm2MfiYuT2tPqkWQ?e=w10FLE)
 
-
+## Optional: create a new excel file for your specific dataset
 
