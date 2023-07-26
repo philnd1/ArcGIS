@@ -13,4 +13,4 @@ If you are using your web broswer to edit your Excel file, first save a copy to 
 3. Under "save as type", make sure you select "CSV UTC-8 Comma Delimited"
 4. Choose an easy to remember file name. This file name will also be the display name for your data layer in the mapping software.
 
-[<<< previous](03-add-coordinates.md) | [next >>>](05-import-data.md)
+[< previous](03-add-coordinates.md) | [next >](05-import-data.md)
