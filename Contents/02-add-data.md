@@ -10,6 +10,6 @@ Consider these elements when adding mapping data:
 * Provide a description of the point being mapped in Spanish, in the "Context esp" column
 * Utilize the provided drop down menu choices for these columns: "Exactness", "Real or Fictional", "Category", and "Structure Type". Hover over the column for more information about those choices:
 
-![mapping column drop down menu](/assets/ExcelDropDown.png)
+![mapping column drop down menu]({{ site.baseurl }}/assets/ExcelDropDown.png)
 
 [<<< previous](01-spreadsheet.md) | [next >>>](03-add-coordinates.md)
