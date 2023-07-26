@@ -14,3 +14,5 @@
 ## Share the data layer
 1. Once the data layer has been imported, you will see it in the list under "My content"
 2. Click the small person icon to edit sharing. Choose "Organization" and save changes.
+
+![assclown](/assets/download.jpg)
