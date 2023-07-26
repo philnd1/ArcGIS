@@ -12,4 +12,4 @@ Consider these elements when adding mapping data:
 
 ![mapping column drop down menu](/assets/ExcelDropDown.png)
 
-[<<< previous](/Contents/01-spreadsheet.md) [next >>>](/Contents/03-add-coordinates)
+[<<< previous](/Contents/01-spreadsheet.md) | [next >>>](/Contents/03-add-coordinates.md)
