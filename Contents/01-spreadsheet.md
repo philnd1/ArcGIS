@@ -7,4 +7,4 @@ Note that this file may already contain data which you can use as an example. Yo
 
 ## Optional: create a new excel file for your specific dataset
 
-[<<< previous](https://github.com/philnd1/Data-for-ArcGIS/) | [next >>>](/Contents/02-add-data.md)
+[<<< previous](https://github.com/philnd1/Data-for-ArcGIS/) | [next >>>](02-add-data.md)
