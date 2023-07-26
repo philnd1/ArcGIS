@@ -11,3 +11,5 @@ Consider these elements when adding mapping data:
 * Utilize the provided drop down menu choices for these columns: "Exactness", "Real or Fictional", "Category", and "Structure Type". Hover over the column for more information about those choices:
 
 ![mapping column drop down menu](/assets/ExcelDropDown.png)
+
+[<<< previous](/Contents/01-spreadsheet.md) [next >>>](/Contents/03-add-coordinates)
