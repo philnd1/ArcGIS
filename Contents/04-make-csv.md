@@ -3,7 +3,8 @@
 ## Saving as a CSV
 
 When you are finished inputting your data, you must save your excel file as a CSV.
-You will need to use the desktop version of Excel (Office 365) in order to save your file as a CSV.
+
+**You will need to use the desktop version of Excel (Office 365) in order to save your file as a CSV.**
 
 1. Navigate to "File: Save a copy".
 2. Choose a location to save your file. Make sure you know where you are saving the file so you can access it in order to upload it to the mapping program.
