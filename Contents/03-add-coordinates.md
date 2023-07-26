@@ -1,4 +1,4 @@
-# Adding coordinate data to spreadsheet
+# Step Three: Adding coordinate data to spreadsheet
 
 ## Understanding Longitude and Latitude
 
