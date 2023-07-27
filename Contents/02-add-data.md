@@ -3,7 +3,7 @@
 ## Review example data
 
 ## Add new data
-
+** instructions for adding coordinates provided in the next step **
 Consider these elements when adding mapping data:
 * You choose what places to map based on your close reading of the text
 * Avoid mapping the same place multiple times, as points on the map will cluster and be difficult to click
