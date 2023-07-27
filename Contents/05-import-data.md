@@ -17,4 +17,4 @@
 
 ![assclown]({{ site.baseurl }}/assets/download.jpg)
 
-[< previous](04-make-csv.md) | [next >](https://www.assclownbrewing.com/)
+[< previous](04-make-csv.md) | [next >](https://www.grinnell.edu/)
