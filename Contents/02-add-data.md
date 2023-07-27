@@ -12,4 +12,8 @@ Consider these elements when adding mapping data:
 
 ![mapping column drop down menu]({{ site.baseurl }}/assets/ExcelDropDown.png)
 
+## Drop down menu items ##
+* Exactness: 1 is most exact, 5 is least exact. Think of how large or small your point should be on the map based on how certain you are of the exact spot of the location.
+* Real or Fictional: Your subjective analysis of whether or not the point is real (based on a real location) or fictional.  Points that are "inspired" by real locations, but have different names or characteristics, should be labeled as fictional.
+
 [< previous](01-spreadsheet.md) | [next >](03-add-coordinates.md)
